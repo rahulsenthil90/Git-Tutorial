@@ -1,0 +1,11 @@
+1--> Create a Version
+        git init                        -->used for initialize
+        git status                      -->show which are added in git and not
+        git add .                       -->to add a file to git
+        git commit -m "Message"         --> used to save the added file with Message
+
+2--> View Previous Version
+        git log                         -->used to see the details of git
+        git log --all --graph           -->graph of git
+        git checkout <commit_hash>      -->see the old version changes with serial number of commit
+        git checkout <branch_name>      -->see the version of the branch
